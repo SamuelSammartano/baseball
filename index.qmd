@@ -2,6 +2,6 @@
 title: "Baseball"
 ---
 
-This is a Quarto website.
+Welcome to a look at home-run history in Major League Baseball. The season-level analysis tracks home runs per game across time, showing how offensive production has changed from era to era and highlighting the unusual shape of shortened seasons.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The site also examines the players who put the most balls over the fence across their careers, including how their careers overlapped with the steroid era. Visit the analysis pages in the navbar to explore the league-wide home-run story, compare career leaders, and zoom in on Barry Bonds's seasonal totals.
