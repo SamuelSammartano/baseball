@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "home-runs.html",
+    "href": "home-runs.html",
+    "title": "Home runs",
+    "section": "",
+    "text": "# A tibble: 4 × 5\n  yearID total_home_runs total_team_games home_runs_per_game season_type     \n   &lt;int&gt;           &lt;int&gt;            &lt;int&gt;              &lt;dbl&gt; &lt;fct&gt;           \n1   1981            1781             2788              0.639 Shortened season\n2   1994            3306             3200              1.03  Shortened season\n3   2019            6776             4858              1.39  Regular season  \n4   2020            2304             1796              1.28  Shortened season"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Baseball",
+    "section": "",
+    "text": "Welcome to a look at home-run history in Major League Baseball. The season-level analysis tracks home runs per game across time, showing how offensive production has changed from era to era and highlighting the unusual shape of shortened seasons.\nThe site also examines the players who put the most balls over the fence across their careers, including how their careers overlapped with the steroid era. Visit the analysis pages in the navbar to explore the league-wide home-run story, compare career leaders, and zoom in on Barry Bonds’s seasonal totals."
+  }
+]
